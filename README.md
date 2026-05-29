@@ -4,7 +4,7 @@ A Spring Boot REST API that fetches GitHub repository information for a given us
 
 ## Endpoint
 
-`GET /repos/{username}` — returns a list of the user's repositories with their branches and latest commit SHAs.
+`GET /api/repos/{username}` — returns a list of the user's repositories with their branches and latest commit SHAs.
 
 ## Running
 
